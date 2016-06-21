@@ -30,7 +30,7 @@ public class HW_1 {
 					e.printStackTrace();
 				}
 				getWords(br);
-			}
+         			}
 		}		
 		int tokenNum = 0;
 		int wordsOnlyOne = 0;
